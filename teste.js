@@ -1,3 +1,3 @@
 let teste;
-teste = 3;
+teste = 5;
 console.log(teste);
